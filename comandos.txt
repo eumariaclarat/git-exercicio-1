@@ -1,0 +1,5 @@
+git init- Inicia o git dentro do repositório adicionando a pasta oculta “.git”
+git add- Adiciona o arquivo para “staging area”, local onde os arquivos
+ficam para serem versionados (commits)
+git diff - Mostra as diferenças do conteúdo do arquivo atual em comparação com o último
+commit
